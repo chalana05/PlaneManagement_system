@@ -1,1 +1,1 @@
-# jhyngn0
+A PlaneManagement system has been created for passengers using java programming language. This enables passengers to pre-book a seat and re-cancel a reserved seat. Also, to know the first reserved seat, to show how the seat has been reserved and when the passenger is going to reserve a seat, if the seat has been reserved in advance, the information of the person who reserved the seat will be shown. This system consists of three classes. Here, when reserving a seat, the passenger's personal information is asked and saved in a text file.
