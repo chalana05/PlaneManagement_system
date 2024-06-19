@@ -20,28 +20,28 @@ Run the program.
 A menu appears with options for managing plane seats.
 
 Actions:
-Buy a seat (buy_seat):
+1. Buy a seat (buy_seat):
   User enters desired row and seat number.
   System checks availability and validates seat choice.
   If available, user enters passenger information (name, surname, email).
   Ticket price is calculated based on seat location.
   System reserves the seat and creates a ticket with passenger details.
 
-Cancel a seat (cancel_seat):
+2. Cancel a seat (cancel_seat):
   User enters row and seat number of the reservation to cancel.
   System verifies if the seat is booked and cancels the reservation if valid.
 
-Find the first available seat (find_first_available):
+3. Find the first available seat (find_first_available):
   System searches the seating plan and displays the row and seat number of the first unoccupied seat.
 
-Displaying the seating plan (show_seating_plan):
+4. Displaying the seating plan (show_seating_plan):
   System displays a representation of the plane's seating layout, indicating occupied and available seats.
 
-Printing ticket information and total sales (print_tickets_info):
+5. Printing ticket information and total sales (print_tickets_info):
   System displays details of all booked tickets, including passenger information and price.
   Calculates and displays the total sales amount from all tickets sold.
 
-Searching for a ticket (search_ticket):
+6. Searching for a ticket (search_ticket):
   User enters row and seat number of a reservation.
   System searches for the ticket and displays passenger information if found.
   Otherwise, indicates the seat is available.
