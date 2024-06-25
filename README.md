@@ -29,63 +29,63 @@ The program presents a menu-driven interface where users select actions using a 
 <br>
 <b>Start:</b>
 
-  ⦿ Run the program.<br>
+  • Run the program.<br>
   
-  ⦿ A menu appears with options for managing plane seats.
+  • A menu appears with options for managing plane seats.
 
 
 <br>
 <b>Actions:<b>
 1. Buy a seat (buy_seat):
   
-  ⦿ User enters desired row and seat number.
+  • User enters desired row and seat number.
 
-  ⦿ System checks availability and validates seat choice.
+  • System checks availability and validates seat choice.
 
-  ⦿ If available, user enters passenger information (name, surname, email).
+  • If available, user enters passenger information (name, surname, email).
 
-  ⦿ Ticket price is calculated based on seat location.
+  • Ticket price is calculated based on seat location.
 
-  ⦿ System reserves the seat and creates a ticket with passenger details.<br>
+  • System reserves the seat and creates a ticket with passenger details.<br>
 
 <br>
 2. Cancel a seat (cancel_seat):
   
-  ⦿ User enters row and seat number of the reservation to cancel.
+  • User enters row and seat number of the reservation to cancel.
 
-  ⦿ System verifies if the seat is booked and cancels the reservation if valid.<br>
+  • System verifies if the seat is booked and cancels the reservation if valid.<br>
 
 
 <br>
 3. Find the first available seat (find_first_available):
   
-  ⦿ System searches the seating plan and displays the row and seat number of the first unoccupied seat.<br>
+  • System searches the seating plan and displays the row and seat number of the first unoccupied seat.<br>
 
 <br>
 4. Displaying the seating plan (show_seating_plan):
   
-  ⦿ System displays a representation of the plane's seating layout, indicating occupied and available seats.<br>
+  • System displays a representation of the plane's seating layout, indicating occupied and available seats.<br>
 
 <br>
 5. Printing ticket information and total sales (print_tickets_info):
   
-  ⦿ System displays details of all booked tickets, including passenger information and price.
+  • System displays details of all booked tickets, including passenger information and price.
 
-  ⦿ Calculates and displays the total sales amount from all tickets sold.<br>
+  • Calculates and displays the total sales amount from all tickets sold.<br>
 
 <br>
 6. Searching for a ticket (search_ticket):
   
-  ⦿ User enters row and seat number of a reservation.
+  • User enters row and seat number of a reservation.
 
-  ⦿ System searches for the ticket and displays passenger information if found.
+  • System searches for the ticket and displays passenger information if found.
 
-  ⦿ Otherwise, indicates the seat is available.<br>
+  • Otherwise, indicates the seat is available.<br>
 
 <br>
 End Game:
 
-  ⦿ The program doesn't have an ending as it's designed for ongoing seat management. Users can keep interacting with the menu until they choose to exit.
+  • The program doesn't have an ending as it's designed for ongoing seat management. Users can keep interacting with the menu until they choose to exit.
 
 <br>
 Additional Notes:
